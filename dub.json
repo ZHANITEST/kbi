@@ -1,0 +1,9 @@
+{
+	"name": "kbi",
+	"authors": [
+		"ZHANITEST"
+	],
+	"description": "kbi.or.kr ebook downloader",
+	"copyright": "Copyright © 2018, ZHANITEST",
+	"license": "GPL v3"
+}
